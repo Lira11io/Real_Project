@@ -1,25 +1,11 @@
-# Вебсайт для бизнес-консультанта.
+# Вебсайт для бизнес-консультанта
 
 Проект по разработке и созданию одностраничного веб-сайта для бизнес-консультанта, специализирующегося на консультировании крупных компаний и предоставляющего рекомендации по бизнес-планам, финансовым моделям и бизнес-процессам. Сайт доступен как на мобильной, так и на настольных устройствах.
 / https://oksana2211.github.io/Project/ /
 
+<img align="center" width=800 src="Site/Site.png" />
+
 Сайт создан на базе разработанного командой макета https://www.figma.com/file/HjG1BAfAAaeDaaX3Kvpw2F/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%B4%D0%BB%D1%8F-%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D0%B8-(FINAL)?node-id=0%3A1&t=eKznSepsQMruIlMh-0.
-
-Проектная команда
-
-- Оксана Тайсумова (https://github.com/Oksana2211)
-- Анастасия Клиффорд (https://github.com/nastyaclifford)
-- Анастасия Искендерова (https://github.com/ianastasiya)
-- Ксения Кочинева (https://github.com/Kseniva)
-- Mарина Овчаренко (https://github.com/Mmaryna68)
-- Аида Рахимова (https://github.com/Aida1005)
-- Екатерина Григас (https://github.com/grigaskate)
-- Олеся Михайлова (https://github.com/Olesya6666)
-- Елена Миронова (https://github.com/MironovaElena)
-- Ирина Абрамова (https://github.com/Lira11io)
-- Айгуль Ташматова (https://github.com/Aygul2022)
-- Евгения Мальцева (https://github.com/EvgeniaMaltseva)
-- Юлия Старикова ( https://github.com/CodeMeYulia)
 
 ## Задачи проекта:
 
@@ -49,11 +35,11 @@
 
 ### Инструкция по установке
 
-1. Для того, чтобы перенести проект себе на компьтер, необходимо выполнить команду git clone https://github.com/Oksana2211/Project.git в терминале VS Code
+1)Для того, чтобы перенести проект себе на компьтер, необходимо выполнить команду git clone https://github.com/Oksana2211/Project.git в терминале VS Code
 
-2. Код страницы находится в файле index.html
+2)Код страницы находится в файле index.html
 
-3. Sass стили находятся в файлах sass в папке components:
+3)Sass стили находятся в файлах sass в папке components:
 
 - стили для шапки страницы (\_header.scss)
 - стили для блока Вступление и Обо мне (\_introduce.scss)
@@ -68,7 +54,7 @@
   Переменные для разных цветов, используемых на странице, распологаются в файле \_valiables.scss.
   Normalize находится в \_normalize.scss.
 
-4. При работе с кодом необходимо внести строчки app.css и app.css.map в файл .gitignore. А также следить за тем, чтобы в работе присутствовал только один вариант app.css.
+  4)При работе с кодом необходимо внести строчки app.css и app.css.map в файл .gitignore. А также следить за тем, чтобы в работе присутствовал только один вариант app.css.
 
 ## Спасибо всем участникам проекта!
 
