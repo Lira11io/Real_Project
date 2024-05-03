@@ -17,7 +17,7 @@
   @include heading-h2;
 }
 .main-advantages__title::after {
-  content: " ";
+  content: ' ';
   display: block;
   width: 35px;
   height: 2px;
@@ -85,9 +85,6 @@ a.button3 {
   }
   .main-advantages__title {
     font-size: $font-size-h2-tablet;
-  }
-  .main-advantages {
-    margin-top: 65%;
   }
 }
 @media screen and (min-width: 600px) and (max-width: 874px) {

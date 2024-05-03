@@ -2,7 +2,7 @@
 
 /*Оболочка хэдера*/
 .header {
-  background: $color2 url("../img/back_picture.png");
+  background: $color2 url('../img/back_picture.png');
   max-width: 100%;
   min-height: 35%;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 
 /*Подчеркивание пунктов меню хедера смещенное*/
 .header__menu-link::after {
-  content: "";
+  content: '';
   background-color: $color3;
   height: 2px;
   width: 25px;

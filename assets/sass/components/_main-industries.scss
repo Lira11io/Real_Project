@@ -3,7 +3,7 @@
 }
 .main-industries__title {
   margin-left: 9vw;
-  margin-top: 10vw;
+  margin-top: 7vw;
   display: grid;
   margin-bottom: 6vw;
   max-width: 40vw;
@@ -13,7 +13,7 @@
   @include heading-h2;
 }
 .main-industries__title::after {
-  content: " ";
+  content: ' ';
   display: block;
   width: 35px;
   height: 2px;
